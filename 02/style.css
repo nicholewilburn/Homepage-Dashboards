@@ -1,0 +1,13 @@
+body {
+    background-image: url("background-image.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+}
+#left-container{
+    display:flex;
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 400px;
+}
